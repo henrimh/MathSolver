@@ -46,7 +46,8 @@ class MathSolver
 		case '+':
 			return stackSecond + stackTop;
 		case '(':
-			throw "Mismatchin parenthesis '('!";			
+			throw "Mismatchin parenthesis '('!";		
+			//return 0;
 		}	
 	}
 

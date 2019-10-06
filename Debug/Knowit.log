@@ -1,4 +1,4 @@
 ﻿  Knowit.cpp
-C:\Users\Henri\source\repos\Knowit\MathSolver.h(175,21): warning C4018:  '<': signed/unsigned mismatch
-C:\Users\Henri\source\repos\Knowit\MathSolver.h(175,21): warning C4018: C:\Users\Henri\source\repos\Knowit\MathSolver.h(51) : warning C4715: 'MathSolver::ResolveNextOperation': not all control paths return a value
-  Knowit.vcxproj -> C:\Users\Henri\source\repos\Knowit\Debug\Knowit.exe
+C:\Users\Henri\source\repos\Knowit_MathSolver_private\MathSolver.h(175,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Henri\source\repos\Knowit_MathSolver_private\MathSolver.h(175,21): warning C4018: C:\Users\Henri\source\repos\Knowit_MathSolver_private\MathSolver.h(51) : warning C4715: 'MathSolver::ResolveNextOperation': not all control paths return a value
+  Knowit.vcxproj -> C:\Users\Henri\source\repos\Knowit_MathSolver_private\Debug\Knowit.exe

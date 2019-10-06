@@ -1,0 +1,8 @@
+﻿  Knowit.cpp
+C:\Users\Henri\source\repos\Knowit_MathSolver_private\MathSolver.h(175,21): warning C4018:  '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Henri\source\repos\Knowit_MathSolver_private\MathSolver.h(51): warning C4715: 'MathSolver::ResolveNextOperation': not all control paths return a value
+  All 312 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Knowit.vcxproj -> C:\Users\Henri\source\repos\Knowit_MathSolver_private\Release\Knowit.exe
